@@ -1,0 +1,17 @@
+[{
+    "name": "Sinter",
+    "area_per_disc": 0.042,
+    "height_of_wear": 0.019,
+    "alpha_pad": 2,
+    "beta_pad": 2,
+    "gamma_pad": 2,
+    "efficiency_of_disc": 0.9
+}, {
+    "name": "Organic",
+    "area_per_disc": 0.067,
+    "height_of_wear": 0.019,
+    "alpha_pad": 2,
+    "beta_pad": 2,
+    "gamma_pad": 2,
+    "efficiency_of_disc": 0.98
+}]

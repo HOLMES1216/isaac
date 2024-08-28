@@ -1,0 +1,21 @@
+[{
+        "name": "car body",
+        "img": "media/basic_element/car_body.png"
+    },
+    {
+        "name": "bogie frame",
+        "img": "media/basic_element/bogie_frame.png"
+    },
+    {
+        "name": "wheelset",
+        "img": "media/basic_element/wheelset.png"
+    },
+    {
+        "name": "motor",
+        "img": "media/basic_element/motor.png"
+    },
+    {
+        "name": "jacobi bogie frame",
+        "img": "media/basic_element/jacobi_bogie_frame.png"
+    }
+]

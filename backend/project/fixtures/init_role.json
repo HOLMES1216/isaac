@@ -1,0 +1,37 @@
+[{
+        "name": "MSE",
+        "key": "MSE",
+        "sort": 1,
+        "status": true,
+        "admin": true,
+        "data_range": 3,
+        "remark": null
+    },
+    {
+        "name": "BES2",
+        "key": "BES2",
+        "sort": 1,
+        "status": true,
+        "admin": true,
+        "data_range": 3,
+        "remark": null
+    },
+    {
+        "name": "BES3",
+        "key": "BES3",
+        "sort": 1,
+        "status": true,
+        "admin": true,
+        "data_range": 3,
+        "remark": null
+    },
+    {
+        "name": "Other",
+        "key": "Other",
+        "sort": 1,
+        "status": true,
+        "admin": true,
+        "data_range": 3,
+        "remark": null
+    }
+]

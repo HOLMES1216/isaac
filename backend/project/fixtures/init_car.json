@@ -1,0 +1,359 @@
+[{
+    "car_type": 0,
+    "name": "left_2x2wheel",
+    "img": "media/car_unit/motor/left_2x2wheel.png",
+    "detail": {
+        "text": "car body",
+        "value": "car body",
+        "children": [{
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }]
+        }, {
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }]
+        }]
+    }
+}, {
+    "car_type": 0,
+    "name": "middle_2x2wheel",
+    "img": "media/car_unit/motor/middle_2x2wheel.png",
+    "detail": {
+        "text": "car body",
+        "value": "car body",
+        "children": [{
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }]
+        }, {
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }]
+        }]
+    }
+}, {
+    "car_type": 0,
+    "name": "right_2x2wheel",
+    "img": "media/car_unit/motor/right_2x2wheel.png",
+    "detail": {
+        "text": "car body",
+        "value": "car body",
+        "children": [{
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }]
+        }, {
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }]
+        }]
+    }
+}, {
+    "car_type": 0,
+    "name": "left_2x3wheel",
+    "img": "media/car_unit/motor/left_2x3wheel.png",
+    "detail": {
+        "text": "car body",
+        "value": "car body",
+        "children": [{
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }]
+        }, {
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }]
+        }]
+    }
+}, {
+    "car_type": 0,
+    "name": "right_2x3wheel",
+    "img": "media/car_unit/motor/right_2x3wheel.png",
+    "detail": {
+        "text": "car body",
+        "value": "car body",
+        "children": [{
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }]
+        }, {
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }, {
+                "text": "wheelset",
+                "value": "wheelset",
+                "childern": [{
+                    "text": "motor",
+                    "value": "motor"
+                }]
+            }]
+        }]
+    }
+}, {
+    "car_type": 1,
+    "name": "left_2x2wheel",
+    "img": "media/car_unit/trailer/left_2x2wheel.png",
+    "detail": {
+        "text": "car body",
+        "value": "car body",
+        "children": [{
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }]
+        }, {
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }]
+        }]
+    }
+}, {
+    "car_type": 1,
+    "name": "middle_2x2wheel",
+    "img": "media/car_unit/trailer/middle_2x2wheel.png",
+    "detail": {
+        "text": "car body",
+        "value": "car body",
+        "children": [{
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }]
+        }, {
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }]
+        }]
+    }
+}, {
+    "car_type": 1,
+    "name": "right_2x2wheel",
+    "img": "media/car_unit/trailer/right_2x2wheel.png",
+    "detail": {
+        "text": "car body",
+        "value": "car body",
+        "children": [{
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }]
+        }, {
+            "text": "bogie frame",
+            "value": "bogie frame",
+            "children": [{
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }, {
+                "text": "wheelset",
+                "value": "wheelset"
+            }]
+        }]
+    }
+}]

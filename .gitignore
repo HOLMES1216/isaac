@@ -1,0 +1,8 @@
+/backend/my_project_env
+/backend/.idea
+.idea
+
+.history/
+.vscode/
+web/package-lock.json
+/web/node_modules

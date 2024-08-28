@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2,
+        "modifier_name": "管理员",
+        "dept_belong_id": 1,
+        "creator_name": "管理员",
+        "create_datetime": "2024-06-22 15:11:52",
+        "update_datetime": "2024-06-22 15:11:52",
+        "description": null,
+        "modifier": "2",
+        "goods": "ddsada",
+        "inventory": 1,
+        "goods_price": 23.0,
+        "purchase_goods_date": "2024-06-05",
+        "creator": 2
+    },
+    {
+        "id": 1,
+        "modifier_name": "超级管理员",
+        "dept_belong_id": 1,
+        "creator_name": "超级管理员",
+        "create_datetime": "2024-06-22 15:05:33",
+        "update_datetime": "2024-06-22 15:05:33",
+        "description": null,
+        "modifier": "1",
+        "goods": "DDD",
+        "inventory": 1,
+        "goods_price": 2313.0,
+        "purchase_goods_date": "2024-05-28",
+        "creator": 1
+    }
+]

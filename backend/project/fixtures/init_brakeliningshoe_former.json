@@ -1,0 +1,55 @@
+[{
+    "pad_type": "Organic",
+    "type_of_pad": 0,
+    "item": "C107260(KRS300)",
+    "item_name": "KRS300_ORGAN_C107260_66.176",
+    "alpha_pad": 0,
+    "pad_thickness": 30,
+    "img": "media/default/pad(lining)/1.jpg",
+    "is_global": true
+}, {
+    "pad_type": "Organic",
+    "type_of_pad": 0,
+    "item": "C105882(KRS350)",
+    "item_name": "KRS350_ORGAN_C105882_62",
+    "alpha_pad": 0,
+    "pad_thickness": 35,
+    "img": "media/default/pad(lining)/2.jpg",
+    "is_global": true
+}, {
+    "pad_type": "Organic",
+    "type_of_pad": 0,
+    "item": "C105546(KRS400)",
+    "item_name": "KRS400_ORGAN_C105546_71.5",
+    "alpha_pad": 0,
+    "pad_thickness": 35,
+    "img": "media/default/pad(lining)/3.jpg",
+    "is_global": true
+}, {
+    "pad_type": "Organic",
+    "type_of_pad": 0,
+    "item": "C105255(UIC400)",
+    "item_name": "UIC400_ORGAN_C105255_HW_59",
+    "alpha_pad": 0,
+    "pad_thickness": 35,
+    "img": "media/default/pad(lining)/4.jpg",
+    "is_global": true
+}, {
+    "pad_type": "Sinter",
+    "type_of_pad": 0,
+    "item": "II75745(FLEX400UIC)",
+    "item_name": "FLEX400UIC_SINTER_II75745_59.1335",
+    "alpha_pad": 0,
+    "pad_thickness": 30,
+    "img": "media/default/pad(lining)/2.jpg",
+    "is_global": true
+}, {
+    "pad_type": "Sinter",
+    "type_of_pad": 0,
+    "item": "II104295(FLEX400KRS)",
+    "item_name": "FLEX400KRS_SINTER_II104295_67.9",
+    "alpha_pad": 0,
+    "pad_thickness": 32,
+    "img": "media/default/pad(lining)/1.jpg",
+    "is_global": true
+}]

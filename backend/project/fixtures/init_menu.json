@@ -1,0 +1,1642 @@
+[
+    {
+        "name": "Computing Tools",
+        "icon": "icon-CE_Select",
+        "sort": 1,
+        "is_link": false,
+        "is_catalog": true,
+        "web_path": "/computingEquipment",
+        "component": "",
+        "component_name": "",
+        "status": true,
+        "cache": false,
+        "visible": true,
+        "children": [{
+                "name": "Comprehensive Brake Calculation",
+                "icon": "folder-o",
+                "sort": 1,
+                "is_link": false,
+                "is_catalog": true,
+                "web_path": "/integrativeComputation",
+                "component": "",
+                "component_name": "",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [{
+                        "name": "EMU",
+                        "icon": "",
+                        "sort": 1,
+                        "is_link": false,
+                        "is_catalog": true,
+                        "web_path": "/EMU",
+                        "component": null,
+                        "component_name": null,
+                        "status": true,
+                        "cache": false,
+                        "visible": true,
+                        "children": [{
+                                "name": "Validation Mode",
+                                "icon": "",
+                                "sort": 1,
+                                "is_link": false,
+                                "is_catalog": false,
+                                "web_path": "/project/EMU/approve",
+                                "component": "computingEquipment/project/index",
+                                "component_name": "EMUApprove",
+                                "status": true,
+                                "cache": false,
+                                "visible": true,
+                                "children": [],
+                                "menu_button": []
+                            },
+                            {
+                                "name": "Cooperation Mode",
+                                "icon": "",
+                                "sort": 2,
+                                "is_link": false,
+                                "is_catalog": false,
+                                "web_path": "/project/EMU/join",
+                                "component": "computingEquipment/project/index",
+                                "component_name": "EMUJoin",
+                                "status": true,
+                                "cache": false,
+                                "visible": true,
+                                "children": [],
+                                "menu_button": []
+                            }
+                        ],
+                        "menu_button": []
+                    },
+                    {
+                        "name": "Metro",
+                        "icon": "",
+                        "sort": 2,
+                        "is_link": false,
+                        "is_catalog": true,
+                        "web_path": "/Metro",
+                        "component": null,
+                        "component_name": null,
+                        "status": true,
+                        "cache": false,
+                        "visible": true,
+                        "children": [{
+                                "name": "Validation Mode",
+                                "icon": "",
+                                "sort": 1,
+                                "is_link": false,
+                                "is_catalog": false,
+                                "web_path": "/project/Metro/approve",
+                                "component": "computingEquipment/project/index",
+                                "component_name": "MetroApprove",
+                                "status": true,
+                                "cache": false,
+                                "visible": true,
+                                "children": [],
+                                "menu_button": []
+                            },
+                            {
+                                "name": "Cooperation Mode",
+                                "icon": "",
+                                "sort": 2,
+                                "is_link": false,
+                                "is_catalog": false,
+                                "web_path": "/project/Metro/join",
+                                "component": "computingEquipment/project/index",
+                                "component_name": "MetroJoin",
+                                "status": true,
+                                "cache": false,
+                                "visible": true,
+                                "children": [],
+                                "menu_button": []
+                            }
+                        ],
+                        "menu_button": []
+                    }
+                ],
+                "menu_button": []
+            },
+            {
+                "name": "BE Application Analysis",
+                "icon": "",
+                "sort": 2,
+                "is_link": false,
+                "is_catalog": true,
+                "web_path": "/appliedAnalysis",
+                "component": "",
+                "component_name": "",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [{
+                        "name": "Caliper Application Analysis",
+                        "icon": "folder-o",
+                        "sort": 1,
+                        "is_link": false,
+                        "is_catalog": true,
+                        "web_path": "/clampApplication",
+                        "component": "",
+                        "component_name": "",
+                        "status": true,
+                        "cache": false,
+                        "visible": true,
+                        "children": [{
+                                "name": "Pad and Disc Positioning",
+                                "icon": "",
+                                "sort": 1,
+                                "is_link": false,
+                                "is_catalog": false,
+                                "web_path": "/discPosition",
+                                "component": "computingEquipment/appliedAnalysis/clampApplication/discPosition/index",
+                                "component_name": "discPosition",
+                                "status": true,
+                                "cache": false,
+                                "visible": true,
+                                "children": [],
+                                "menu_button": []
+                            },
+                            {
+                                "name": "Fixing Bolt Strength Analysis",
+                                "icon": "",
+                                "sort": 1,
+                                "is_link": false,
+                                "is_catalog": false,
+                                "web_path": "/boltStrength",
+                                "component": "computingEquipment/appliedAnalysis/clampApplication/boltStrength/index",
+                                "component_name": "boltStrength",
+                                "status": true,
+                                "cache": false,
+                                "visible": true,
+                                "children": [],
+                                "menu_button": []
+                            }
+                        ],
+                        "menu_button": []
+                    },
+                    {
+                        "name": "MTB Application Analysis",
+                        "icon": "3",
+                        "sort": 6,
+                        "is_link": false,
+                        "is_catalog": false,
+                        "web_path": "/mtbAnalysis",
+                        "component": "computingEquipment/appliedAnalysis/mtbApplication/index",
+                        "component_name": "mtbAnalysis",
+                        "status": true,
+                        "cache": false,
+                        "visible": true,
+                        "children": [],
+                        "menu_button": []
+                    },
+                    {
+                        "name": "TBU Application Analysis",
+                        "icon": "folder-o",
+                        "sort": 6,
+                        "is_link": false,
+                        "is_catalog": true,
+                        "web_path": "/tbuApplication",
+                        "component": "",
+                        "component_name": "",
+                        "status": true,
+                        "cache": false,
+                        "visible": true,
+                        "children": [{
+                                "name": "Installation Positioning Evaluation",
+                                "icon": "",
+                                "sort": 1,
+                                "is_link": false,
+                                "is_catalog": false,
+                                "web_path": "/installation",
+                                "component": "computingEquipment/appliedAnalysis/tbuApplication/installation/index",
+                                "component_name": "installation",
+                                "status": true,
+                                "cache": false,
+                                "visible": true,
+                                "children": [],
+                                "menu_button": []
+                            },
+                            {
+                                "name": "Positioning Bolt Reliability Assessment",
+                                "icon": "",
+                                "sort": 2,
+                                "is_link": false,
+                                "is_catalog": false,
+                                "web_path": "/reliability",
+                                "component": "computingEquipment/appliedAnalysis/tbuApplication/reliability/index",
+                                "component_name": "reliability",
+                                "status": true,
+                                "cache": false,
+                                "visible": true,
+                                "children": [],
+                                "menu_button": []
+                            }
+                        ],
+                        "menu_button": []
+                    }
+                ],
+                "menu_button": []
+            },
+            {
+                "name": "Thermal Calculation",
+                "icon": "3",
+                "sort": 3,
+                "is_link": false,
+                "is_catalog": true,
+                "web_path": "/hotComputing",
+                "component": "",
+                "component_name": "",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [{
+                        "name": "Quick Evaluation",
+                        "icon": "1",
+                        "sort": 6,
+                        "is_link": false,
+                        "is_catalog": false,
+                        "web_path": "/rapidAnalysis",
+                        "component": "computingEquipment/hotComputing/rapidAnalysis/index",
+                        "component_name": "rapidAnalysis",
+                        "status": true,
+                        "cache": false,
+                        "visible": true,
+                        "children": [],
+                        "menu_button": []
+                    },
+                    {
+                        "name": "Professional Evaluation",
+                        "icon": "1",
+                        "sort": 6,
+                        "is_link": false,
+                        "is_catalog": false,
+                        "web_path": "/professionalAnalysis",
+                        "component": "computingEquipment/hotComputing/professionalAnalysis/index",
+                        "component_name": "professionalAnalysis",
+                        "status": true,
+                        "cache": false,
+                        "visible": true,
+                        "children": [],
+                        "menu_button": []
+                    }
+                ],
+                "menu_button": []
+            },
+            {
+                "name": "Other Calculation",
+                "icon": "4",
+                "sort": 6,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/otherComputing",
+                "component": "computingEquipment/otherComputing/index",
+                "component_name": "otherComputing",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [],
+                "menu_button": []
+            }
+        ],
+        "menu_button": []
+    },
+    {
+        "name": "Project Management",
+        "icon": "icon-Project_Select",
+        "sort": 2,
+        "is_link": false,
+        "is_catalog": false,
+        "web_path": "/projectManagement",
+        "component": "management/projectManagement/index",
+        "component_name": "projectManagement",
+        "status": true,
+        "cache": false,
+        "visible": true,
+        "children": [],
+        "menu_button": []
+    },
+    {
+        "name": "System Management",
+        "icon": "icon-System_Select",
+        "sort": 3,
+        "is_link": false,
+        "is_catalog": true,
+        "web_path": "/sys",
+        "component": "",
+        "component_name": "",
+        "status": true,
+        "cache": false,
+        "visible": true,
+        "children": [{
+                "name": "Menu Management",
+                "icon": "navicon",
+                "sort": 1,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/menu",
+                "component": "system/menu",
+                "component_name": "menu",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [],
+                "menu_button": [{
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/system/menu/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/system/menu/{id}/",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/system/menu/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/system/menu/{id}/",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/system/menu/{id}/",
+                        "method": 3
+                    }
+                ]
+            },
+            {
+                "name": "Menu Button",
+                "icon": "dot-circle-o",
+                "sort": 2,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/menuButton",
+                "component": "system/menuButton/index",
+                "component_name": "menuButton",
+                "status": true,
+                "cache": false,
+                "visible": false,
+                "children": [],
+                "menu_button": [{
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/system/menu_button/",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/system/menu_button/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/system/menu_button/{id}/",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/system/menu_button/{id}/",
+                        "method": 3
+                    }
+                ]
+            },
+            {
+                "name": "Department Management",
+                "icon": "bank",
+                "sort": 3,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/dept",
+                "component": "system/dept/index",
+                "component_name": "dept",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [],
+                "menu_button": [{
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/system/dept/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/system/dept/{id}/",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/system/dept/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/system/dept/{id}/",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/system/dept/{id}/",
+                        "method": 3
+                    }
+                ]
+            },
+            {
+                "name": "Role Management",
+                "icon": "address-book",
+                "sort": 4,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/role",
+                "component": "system/role/index",
+                "component_name": "role",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [],
+                "menu_button": [{
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/system/role/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/system/role/{id}/",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/system/role/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/system/role/{id}/",
+                        "method": 2
+                    },
+                    {
+                        "name": "保存",
+                        "value": "Save",
+                        "api": "/api/system/role/{id}/",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/system/role/{id}/",
+                        "method": 3
+                    }
+                ]
+            },
+            {
+                "name": "User Management",
+                "icon": "users",
+                "sort": 6,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/user",
+                "component": "system/user/index",
+                "component_name": "user",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [],
+                "menu_button": [{
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/system/user/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/system/user/{id}/",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/system/user/",
+                        "method": 1
+                    },
+                    {
+                        "name": "导出",
+                        "value": "Export",
+                        "api": "/api/system/user/export/",
+                        "method": 1
+                    },
+                    {
+                        "name": "导入",
+                        "value": "Import",
+                        "api": "/api/system/user/import/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/system/user/{id}/",
+                        "method": 2
+                    },
+                    {
+                        "name": "重设密码",
+                        "value": "ResetPassword",
+                        "api": "/api/system/user/{id}/reset_password/",
+                        "method": 2
+                    },
+                    {
+                        "name": "重置密码",
+                        "value": "DefaultPassword",
+                        "api": "/api/system/user/{id}/reset_to_default_password/",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/system/user/{id}/",
+                        "method": 3
+                    }
+                ]
+            },
+            {
+                "name": "Message Center",
+                "icon": "bullhorn",
+                "sort": 7,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/messageCenter",
+                "component": "system/messageCenter/index",
+                "component_name": "messageCenter",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [],
+                "menu_button": [{
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/system/message_center/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/system/message_center/{id}/",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/system/message_center/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/system/message_center/{id}/",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/system/menu/{id}/",
+                        "method": 3
+                    }
+                ]
+            },
+            {
+                "name": "White List Interface",
+                "icon": "compass",
+                "sort": 8,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/apiWhiteList",
+                "component": "system/whiteList/index",
+                "component_name": "whiteList",
+                "status": true,
+                "cache": false,
+                "visible": false,
+                "children": [],
+                "menu_button": [{
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/system/api_white_list/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/system/api_white_list/{id}/",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/system/api_white_list/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/system/api_white_list/{id}/",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/system/api_white_list/{id}/",
+                        "method": 3
+                    }
+                ]
+            }
+        ],
+        "menu_button": []
+    },
+    {
+        "name": "My Approval",
+        "icon": "icon-My_approval_Select",
+        "sort": 4,
+        "is_link": false,
+        "is_catalog": true,
+        "web_path": "/myApproval",
+        "component": "",
+        "component_name": "",
+        "status": true,
+        "cache": false,
+        "visible": true,
+        "parent": null,
+        "children": [
+            {
+                "name": "unit Approval",
+                "icon": "",
+                "sort": 1,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/unitApproval",
+                "component": "management/my-approval/unitApproval/index",
+                "component_name": "unitApproval",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "parent": 30,
+                "children": [],
+                "menu_button": []
+            },
+            {
+                "name": "examine Approval",
+                "icon": "",
+                "sort": 1,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/examineApproval",
+                "component": "management/my-approval/examineApproval/index",
+                "component_name": "examineApproval",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "parent": 30,
+                "children": [],
+                "menu_button": []
+            }
+        ],
+        "menu_button": []
+    },
+    {
+        "name": "Log Management",
+        "icon": "icon-LOG_Select",
+        "sort": 5,
+        "is_link": false,
+        "is_catalog": true,
+        "web_path": "/logManagement",
+        "component": "",
+        "component_name": "",
+        "status": true,
+        "cache": false,
+        "visible": true,
+        "children": [{
+                "name": "Login Log",
+                "icon": "file-text",
+                "sort": 1,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/loginLog",
+                "component": "system/log/loginLog/index",
+                "component_name": "loginLog",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [],
+                "menu_button": [{
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/system/login_log/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/system/login_log/{id}/",
+                        "method": 0
+                    }
+                ]
+            },
+            {
+                "name": "Operation Management",
+                "icon": "file-code-o",
+                "sort": 2,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/operationLog",
+                "component": "system/log/operationLog/index",
+                "component_name": "operationLog",
+                "status": true,
+                "cache": false,
+                "visible": true,
+                "children": [],
+                "menu_button": [{
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/system/operation_log/{id}/",
+                        "method": 0
+                    },
+                    {
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/system/operation_log/",
+                        "method": 0
+                    }
+                ]
+            },
+            {
+                "name": "Leading End Error Log",
+                "icon": "bug",
+                "sort": 4,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "/frontendLog",
+                "component": "system/log/frontendLog/index",
+                "component_name": "frontendLog",
+                "status": false,
+                "cache": false,
+                "visible": false,
+                "children": [],
+                "menu_button": []
+            }
+        ],
+        "menu_button": []
+    },
+    {
+        "name": "Project",
+        "icon": "1",
+        "sort": 6,
+        "is_link": false,
+        "is_catalog": false,
+        "web_path": "/project",
+        "component": "computingEquipment/project/index",
+        "component_name": "project",
+        "status": true,
+        "cache": false,
+        "visible": false,
+        "children": [],
+        "menu_button": []
+    },
+    {
+        "name": "project",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/project/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/project/{id}/",
+            "method": 0
+        }, {
+            "name": "新增",
+            "value": "Create",
+            "api": "/api/project/project/",
+            "method": 1
+        }, {
+            "name": "编辑",
+            "value": "Update",
+            "api": "/api/project/project/{id}/",
+            "method": 2
+        }, {
+            "name": "删除",
+            "value": "Delete",
+            "api": "/api/project/project/{id}/",
+            "method": 3
+        }]
+    },
+    {
+        "name": "project_template",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/project_template/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/project_template/{id}/",
+            "method": 0
+        }, {
+            "name": "新增",
+            "value": "Create",
+            "api": "/api/project/project_template/",
+            "method": 1
+        }]
+    },
+    {
+        "name": "project_history",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/project_history/{id}/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/project_history/{id}/{id}/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "project_checker",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/project_checker/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "project_check",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/project_check/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/project_check/{id}/",
+            "method": 0
+        }, {
+            "name": "新增",
+            "value": "Create",
+            "api": "/api/project/project_check/{id}/",
+            "method": 1
+        }]
+    },
+    {
+        "name": "project_checked",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/project_checked/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/project_checked/{id}/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "project_info_listbox",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/project_info_listbox/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "project_contrast",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "项目差异",
+            "value": "Retrieve",
+            "api": "/api/project/project_contrast/{id}/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "project_characteristic",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/project_characteristic/{id}/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "project_characteristic_search",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/project_characteristic/search/",
+            "method": 0
+        }, {
+            "name": "查询",
+            "value": "Retrieve",
+            "api": "/api/project/project_characteristic/search/detail/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "project_configuration",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Retrieve",
+            "api": "/api/project/project_configuration/{id}/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "project_delay_configuration",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/project_delay_configuration/{id}/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "project_command",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "执行",
+            "value": "Execute",
+            "api": "/api/project/project_command/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "unit_all",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/unit/all/",
+            "method": 0
+        }, {
+            "name": "查询",
+            "value": "TypeSearch",
+            "api": "/api/project/unit/alltype/",
+            "method": 0
+        }]
+    },
+    {
+        "name": "unit_brake",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/unit/brake/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/unit/brake/{id}/",
+            "method": 0
+        }, {
+            "name": "新增",
+            "value": "Create",
+            "api": "/api/project/unit/brake/",
+            "method": 1
+        }, {
+            "name": "编辑",
+            "value": "Update",
+            "api": "/api/project/unit/brake/{id}/",
+            "method": 2
+        }, {
+            "name": "删除",
+            "value": "Delete",
+            "api": "/api/project/unit/brake/{id}/",
+            "method": 3
+        }, {
+            "name": "类型查询",
+            "value": "TypeSearch",
+            "api": "/api/project/unit/braketype/",
+            "method": 0
+        }, {
+            "name": "单部件搜索",
+            "value": "UnitSearch",
+            "api": "/api/project/unit/brake/search/",
+            "method": 0
+        }, {
+            "name": "部件新增字段",
+            "value": "UnitCreateFields",
+            "api": "/api/project/unit/brake/createfields/"
+        }]
+    },
+    {
+        "name": "unit_brakedisc",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/unit/brakedisc/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/unit/brakedisc/{id}/",
+            "method": 0
+        }, {
+            "name": "新增",
+            "value": "Create",
+            "api": "/api/project/unit/brakedisc/",
+            "method": 1
+        }, {
+            "name": "编辑",
+            "value": "Update",
+            "api": "/api/project/unit/brakedisc/{id}/",
+            "method": 2
+        }, {
+            "name": "删除",
+            "value": "Delete",
+            "api": "/api/project/unit/brakedisc/{id}/",
+            "method": 3
+        }, {
+            "name": "类型查询",
+            "value": "TypeSearch",
+            "api": "/api/project/unit/brakedisctype/",
+            "method": 0
+        }, {
+            "name": "单部件搜索",
+            "value": "UnitSearch",
+            "api": "/api/project/unit/brakedisc/search/",
+            "method": 0
+        }, {
+            "name": "部件新增字段",
+            "value": "UnitCreateFields",
+            "api": "/api/project/unit/brakedisc/createfields/"
+        }]
+    },
+    {
+        "name": "unit_pad",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/unit/pad/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/unit/pad/{id}/",
+            "method": 0
+        }, {
+            "name": "新增",
+            "value": "Create",
+            "api": "/api/project/unit/pad/",
+            "method": 1
+        }, {
+            "name": "编辑",
+            "value": "Update",
+            "api": "/api/project/unit/pad/{id}/",
+            "method": 2
+        }, {
+            "name": "删除",
+            "value": "Delete",
+            "api": "/api/project/unit/pad/{id}/",
+            "method": 3
+        }, {
+            "name": "类型查询",
+            "value": "TypeSearch",
+            "api": "/api/project/unit/padtype/",
+            "method": 0
+        }, {
+            "name": "单部件搜索",
+            "value": "UnitSearch",
+            "api": "/api/project/unit/pad/search/",
+            "method": 0
+        }, {
+            "name": "部件新增字段",
+            "value": "UnitCreateFields",
+            "api": "/api/project/unit/pad/createfields/"
+        }]
+    },
+    {
+        "name": "unit_valve",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/unit/valve/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/unit/valve/{id}/",
+            "method": 0
+        }, {
+            "name": "新增",
+            "value": "Create",
+            "api": "/api/project/unit/valve/",
+            "method": 1
+        }, {
+            "name": "编辑",
+            "value": "Update",
+            "api": "/api/project/unit/valve/{id}",
+            "method": 2
+        }, {
+            "name": "删除",
+            "value": "Delete",
+            "api": "/api/project/unit/valve/{id}",
+            "method": 3
+        }, {
+            "name": "单部件搜索",
+            "value": "UnitSearch",
+            "api": "/api/project/unit/valve/search/",
+            "method": 0
+        }, {
+            "name": "部件新增字段",
+            "value": "UnitCreateFields",
+            "api": "/api/project/unit/valve/createfields/"
+        }]
+    },
+    {
+        "name": "unit_mtb",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/unit/mtb/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/unit/mtb/{id}/",
+            "method": 0
+        }, {
+            "name": "新增",
+            "value": "Create",
+            "api": "/api/project/unit/mtb/",
+            "method": 1
+        }, {
+            "name": "编辑",
+            "value": "Update",
+            "api": "/api/project/unit/mtb/{id}",
+            "method": 2
+        }, {
+            "name": "删除",
+            "value": "Delete",
+            "api": "/api/project/unit/mtb/{id}",
+            "method": 3
+        }, {
+            "name": "单部件搜索",
+            "value": "UnitSearch",
+            "api": "/api/project/unit/mtb/search/",
+            "method": 0
+        }, {
+            "name": "部件新增字段",
+            "value": "UnitCreateFields",
+            "api": "/api/project/unit/mtb/createfields/"
+        }]
+    },
+    {
+        "name": "Unit Management",
+        "icon": "",
+        "sort": 7,
+        "is_link": false,
+        "is_catalog": false,
+        "web_path": "/unitManagement",
+        "component": "management/unitManagement/index",
+        "component_name": "unitManagement",
+        "status": true,
+        "cache": false,
+        "visible": true,
+        "parent": null,
+        "children": [
+            {
+                "name": "Brake Management",
+                "icon": "",
+                "sort": 1,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "",
+                "component": "",
+                "component_name": "",
+                "status": true,
+                "cache": false,
+                "visible": false,
+                "parent": 53,
+                "children": [],
+                "menu_button": [
+                    {
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/project/unit/management/brake/",
+                        "method": 0
+                    },
+                    {
+                        "name": "部件新增字段",
+                        "value": "UnitCreateFields",
+                        "api": "/api/project/unit/management/brake/createfields/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/project/unit/management/brake/{id}",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/project/unit/management/brake/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/project/unit/management/brake/{id}",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/project/unit/management/brake/{id}",
+                        "method": 3
+                    }
+                ]
+            },
+            {
+                "name": "BrakeDisc Management",
+                "icon": "",
+                "sort": 1,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "",
+                "component": "",
+                "component_name": "",
+                "status": true,
+                "cache": false,
+                "visible": false,
+                "parent": 53,
+                "children": [],
+                "menu_button": [
+                    {
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/project/unit/management/brakedisc/",
+                        "method": 0
+                    },
+                    {
+                        "name": "部件新增字段",
+                        "value": "UnitCreateFields",
+                        "api": "/api/project/unit/management/brakedisc/createfields/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/project/unit/management/brakedisc/{id}",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/project/unit/management/brakedisc/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/project/unit/management/brakedisc/{id}",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/project/unit/management/brakedisc/{id}",
+                        "method": 3
+                    }
+                ]
+            },
+            {
+                "name": "Pad Management",
+                "icon": "",
+                "sort": 1,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "",
+                "component": "",
+                "component_name": "",
+                "status": true,
+                "cache": false,
+                "visible": false,
+                "parent": 53,
+                "children": [],
+                "menu_button": [
+                    {
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/project/unit/management/pad/",
+                        "method": 0
+                    },
+                    {
+                        "name": "部件新增字段",
+                        "value": "UnitCreateFields",
+                        "api": "/api/project/unit/management/pad/createfields/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/project/unit/management/pad/{id}",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/project/unit/management/pad/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/project/unit/management/pad/{id}",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/project/unit/management/pad/{id}",
+                        "method": 3
+                    }
+                ]
+            },
+            {
+                "name": "Valve Management",
+                "icon": "",
+                "sort": 1,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "",
+                "component": "",
+                "component_name": "",
+                "status": true,
+                "cache": false,
+                "visible": false,
+                "parent": 53,
+                "children": [],
+                "menu_button": [
+                    {
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/project/unit/management/valve/",
+                        "method": 0
+                    },
+                    {
+                        "name": "部件新增字段",
+                        "value": "UnitCreateFields",
+                        "api": "/api/project/unit/management/valve/createfields/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/project/unit/management/valve/{id}",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/project/unit/management/valve/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/project/unit/management/valve/{id}",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/project/unit/management/valve/{id}",
+                        "method": 3
+                    }
+                ]
+            },
+            {
+                "name": "MTB Management",
+                "icon": "",
+                "sort": 1,
+                "is_link": false,
+                "is_catalog": false,
+                "web_path": "",
+                "component": "",
+                "component_name": "",
+                "status": true,
+                "cache": false,
+                "visible": false,
+                "parent": 53,
+                "children": [],
+                "menu_button": [
+                    {
+                        "name": "查询",
+                        "value": "Search",
+                        "api": "/api/project/unit/management/mtb/",
+                        "method": 0
+                    },
+                    {
+                        "name": "部件新增字段",
+                        "value": "UnitCreateFields",
+                        "api": "/api/project/unit/management/mtb/createfields/",
+                        "method": 0
+                    },
+                    {
+                        "name": "详情",
+                        "value": "Retrieve",
+                        "api": "/api/project/unit/management/mtb/{id}",
+                        "method": 0
+                    },
+                    {
+                        "name": "新增",
+                        "value": "Create",
+                        "api": "/api/project/unit/management/mtb/",
+                        "method": 1
+                    },
+                    {
+                        "name": "编辑",
+                        "value": "Update",
+                        "api": "/api/project/unit/management/mtb/{id}",
+                        "method": 2
+                    },
+                    {
+                        "name": "删除",
+                        "value": "Delete",
+                        "api": "/api/project/unit/management/mtb/{id}",
+                        "method": 3
+                    }
+                ]
+            }
+        ],
+        "menu_button": []
+    },
+    {
+        "name": "Material Management",
+        "icon": "",
+        "sort": 8,
+        "is_link": false,
+        "is_catalog": false,
+        "web_path": "/materialManagement",
+        "component": "management/materialManagement/index",
+        "component_name": "materialManagement",
+        "status": true,
+        "cache": false,
+        "visible": true,
+        "parent": null,
+        "children": [],
+        "menu_button": [{
+            "name": "制动盘物料查询",
+            "value": "DiscTypeSearch",
+            "api": "/api/project/unit/management/brakedisc/type/",
+            "method": 0
+        }, {
+            "name": "制动盘物料详情",
+            "value": "DiscTypeRetrieve",
+            "api": "/api/project/unit/management/brakedisc/type/{id}/",
+            "method": 0
+        }, {
+            "name": "制动盘物料新增",
+            "value": "DiscTypeCreate",
+            "api": "/api/project/unit/management/brakedisc/type/",
+            "method": 1
+        }, {
+            "name": "制动盘物料更新",
+            "value": "DiscTypeUpdate",
+            "api": "/api/project/unit/management/brakedisc/type/{id}/",
+            "method": 2
+        }, {
+            "name": "制动盘物料删除",
+            "value": "DiscTypeDelete",
+            "api": "/api/project/unit/management/brakedisc/type/{id}/",
+            "method": 3
+        }, {
+            "name": "闸片闸瓦物料查询",
+            "value": "PadTypeSearch",
+            "api": "/api/project/unit/management/pad/type/",
+            "method": 0
+        }, {
+            "name": "闸片闸瓦物料详情",
+            "value": "PadTypeRetrieve",
+            "api": "/api/project/unit/management/pad/type/{id}/",
+            "method": 0
+        }, {
+            "name": "闸片闸瓦物料新增",
+            "value": "PadTypeCreate",
+            "api": "/api/project/unit/management/pad/type/",
+            "method": 1
+        }, {
+            "name": "闸片闸瓦物料更新",
+            "value": "PadTypeUpdate",
+            "api": "/api/project/unit/management/pad/type/{id}/",
+            "method": 2
+        }, {
+            "name": "闸片闸瓦物料删除",
+            "value": "PadTypeDelete",
+            "api": "/api/project/unit/management/pad/type/{id}/",
+            "method": 3
+        }]
+    },
+    {
+        "name": "Unit Check",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "查询",
+            "value": "Search",
+            "api": "/api/project/unit_check/",
+            "method": 0
+        }, {
+            "name": "详情",
+            "value": "Retrieve",
+            "api": "/api/project/unit_check/{id}/",
+            "method": 0
+        }, {
+            "name": "编辑",
+            "value": "Update",
+            "api": "/api/project/unit_check/{id}/",
+            "method": 2
+        }]
+    }, {
+        "name": "Project Report",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "报告1",
+            "value": "Report1",
+            "api": "/api/project/project_report1/",
+            "method": 0
+        }, {
+            "name": "报告2",
+            "value": "Report2",
+            "api": "/api/project/project_report2/",
+            "method": 0
+        }]
+    }, {
+        "name": "Task Result",
+        "icon": "1",
+        "visible": false,
+        "menu_button": [{
+            "name": "getTaskID",
+            "value": "getTaskID",
+            "api": "/api/project/task_result/{id}/",
+            "method": 0
+        }]
+    }
+]

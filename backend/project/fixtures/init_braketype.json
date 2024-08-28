@@ -1,0 +1,46 @@
+[{
+    "name": "RZTM",
+    "type_of_brake": 0
+}, {
+    "name": "RZTXS",
+    "type_of_brake": 0
+}, {
+    "name": "RZTS",
+    "type_of_brake": 0
+}, {
+    "name": "RZSS",
+    "type_of_brake": 0
+}, {
+    "name": "RZS",
+    "type_of_brake": 0
+}, {
+    "name": "RZKT",
+    "type_of_brake": 0
+}, {
+    "name": "RZKK",
+    "type_of_brake": 0
+}, {
+    "name": "RZ",
+    "type_of_brake": 0
+}, {
+    "name": "WZ",
+    "type_of_brake": 1
+}, {
+    "name": "WZKT",
+    "type_of_brake": 1
+}, {
+    "name": "WZKK",
+    "type_of_brake": 1
+}, {
+    "name": "WZT",
+    "type_of_brake": 1
+}, {
+    "name": "WZK",
+    "type_of_brake": 1
+}, {
+    "name": "PEC7-E",
+    "type_of_brake": 2
+}, {
+    "name": "PEC7-D",
+    "type_of_brake": 2
+}]

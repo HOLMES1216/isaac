@@ -1,0 +1,39 @@
+[
+    {
+        "name": "DVAdmin团队",
+        "sort": 1,
+        "owner": "",
+        "phone": "",
+        "email": "",
+        "status": true,
+        "parent": null,
+        "dept_belong_id": null,
+        "children": [
+            {
+                "name": "技术部",
+                "sort": 1,
+                "owner": "",
+                "phone": "",
+                "email": "",
+                "status": true,
+                "parent": 1,
+                "dept_belong_id": null,
+                "children": [],
+                "key": "technology"
+            },
+            {
+                "name": "运营部",
+                "sort": 2,
+                "owner": "",
+                "phone": "",
+                "email": "",
+                "status": true,
+                "parent": 1,
+                "dept_belong_id": null,
+                "children": [],
+                "key": ""
+            }
+        ],
+        "key": "dvadmin"
+    }
+]

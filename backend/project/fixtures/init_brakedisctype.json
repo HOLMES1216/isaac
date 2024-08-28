@@ -1,0 +1,40 @@
+[{
+    "name": "CS",
+    "density_of_material": 7800,
+    "modulus_of_elasticity": 200000,
+    "poissons_ratio": 0.3,
+    "max_allowed_puls_bending_stress": 0,
+    "coeff_of_thermal_expansion_alpha": 0.000013,
+    "coeff_of_thermal_conduction_at_0_c": 24,
+    "first_deriv_of_ctc_at_0_c": -0.015,
+    "specific_heat_capacity_at_0_c": 0.47,
+    "first_deriv_of_the_shc_at_0_c": 0.00035,
+    "radiation_coeff_of_friction_surface": 0.35,
+    "radiation_coeff_of_cooling_surface": 0.95
+}, {
+    "name": "GCI",
+    "Density_of_material": 7217,
+    "Modulus_of_elasticity": 120000,
+    "Poissons_ratio": 0.25,
+    "Max_allowed_puls_bending_stress": 65,
+    "coeff_of_thermal_expansion_alpha": 0.00005,
+    "coeff_of_thermal_conduction_at_0_C": 50,
+    "First_deriv_of_CTC_at_0_C": 0.0178,
+    "specific_heat_capacity_at_0_C": 0.524,
+    "First_deriv_of_the_SHC_at_0_C": 0.0004,
+    "radiation_coeff_of_friction_surface": 0.35,
+    "radiation_coeff_of_cooling_surface": 0.95
+}, {
+    "name": "Al",
+    "Density_of_material": 2770,
+    "Modulus_of_elasticity": 98600,
+    "Poissons_ratio": 0.34,
+    "Max_allowed_puls_bending_stress": 0,
+    "coeff_of_thermal_expansion_alpha": 0.0000211,
+    "coeff_of_thermal_conduction_at_0_C": 175,
+    "First_deriv_of_CTC_at_0_C": -0.1,
+    "specific_heat_capacity_at_0_C": 0.8164,
+    "First_deriv_of_the_SHC_at_0_C": 0.001,
+    "radiation_coeff_of_friction_surface": 0.35,
+    "radiation_coeff_of_cooling_surface": 0.95
+}]
